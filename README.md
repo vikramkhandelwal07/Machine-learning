@@ -20,10 +20,5 @@ It's meant to track my progress and serve as a resource for others who are also 
   
   6 . seaborn
   
-  
-11. Model Building
-  
-12. Model Evaluation
 
-13. Deployment
 
